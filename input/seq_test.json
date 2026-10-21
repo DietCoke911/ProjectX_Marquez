@@ -1,0 +1,8 @@
+{
+  "scac": "SEQ",
+  "run_date": "2026-10-20",
+  "rows": [
+    {"scac": "SEQ", "date": "2026-10-20", "on_time": 97, "total_shipments": 100},
+    {"scac": "SEQ", "date": "2026-10-20", "on_time": 48, "total_shipments": 50}
+  ]
+}

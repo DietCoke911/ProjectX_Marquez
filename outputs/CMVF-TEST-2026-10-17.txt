@@ -1,0 +1,9 @@
+CMVF Phase 2 Carrier Review — TEST
+Run Date: 2026-10-17
+Contract ID: CMVF-TEST-2026-10-17
+Confidence: 100.0
+Rows Processed: 2
+Computed At: 2026-10-18T05:12:37.863411+00:00
+Disposition: READY_FOR_CARRIER_REVIEW
+Governance: The governance note must state that the output was produced from a verified contract and that no self-validation occurred.
+Authority: No carrier-facing output may be produced without a verified Contract #8.

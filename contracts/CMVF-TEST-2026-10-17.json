@@ -1,0 +1,21 @@
+{
+  "contract_id": "CMVF-TEST-2026-10-17",
+  "contract_version": "2.0",
+  "scac": "TEST",
+  "run_date": "2026-10-17",
+  "metrics": {
+    "row_count": 2,
+    "computed_at": "2026-10-18T05:12:37.863411+00:00"
+  },
+  "gate_results": {
+    "V-01": "PASS",
+    "V-02": "PASS",
+    "V-03": "PASS",
+    "V-04": "PASS",
+    "V-05": "PASS"
+  },
+  "confidence": 100.0,
+  "timestamp": "2026-10-18T05:12:37.863440+00:00",
+  "producer": "CMVFValidator",
+  "consumer_note": "Executor must not send data back to validator."
+}

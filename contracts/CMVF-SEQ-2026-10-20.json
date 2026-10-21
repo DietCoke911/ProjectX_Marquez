@@ -1,0 +1,24 @@
+{
+  "contract_id": "CMVF-SEQ-2026-10-20",
+  "contract_version": "1.0",
+  "scac": "SEQ",
+  "run_date": "2026-10-20",
+  "metrics": {
+    "total_shipments": 150,
+    "on_time_shipments": 145,
+    "on_time_rate": 96.67
+  },
+  "gate_results": {
+    "on_time_rate_gate": "PASS",
+    "threshold": 95.0,
+    "actual": 96.67
+  },
+  "confidence": {
+    "confidence_score": 100.0,
+    "gates_passed": 1,
+    "gates_total": 1
+  },
+  "timestamp": "2026-10-21T03:25:40.980896+00:00",
+  "producer": "CMVFValidator",
+  "consumer_note": "Executor must not send data back to validator."
+}
